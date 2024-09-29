@@ -1,0 +1,62 @@
+/* Styles for the elements */
+* {
+    font-family: Verdana, Tahoma, sans-serif;
+    font-size: 100%;
+}
+body {
+    font-size: 100%;
+    margin-left: 2em;
+    margin-left: 2em;
+    background-color: lightyellow;
+}
+
+/* Styles for the header */
+header {
+    display: block;
+}
+h1 {
+    font-size: 175%;
+    color: crimson;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+h2 {
+    font-size: 125%;
+    color: lightblue;
+    text-shadow: 2px 2px 2px black;
+}
+h3 {
+    font-size: 95%;
+    color: royalblue;
+    text-shadow: 1px 1px 1px black;
+}
+
+/* Styles for the nav ul */
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles for the nav ol */
+ol {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+/* Styles for the section */
+section {
+    display: block;
+}
+h2 {
+    font-size: large;
+    color: royalblue;
+    text-shadow: 1px 1px 1px black;
+}
+
+/* Styles for the footer */
+footer {
+    text-align: center;
+    padding: 1.5em;
+}
